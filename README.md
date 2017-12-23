@@ -1,2 +1,9 @@
 # things-to-do
-List of things to do
+
+##Personal
+
+##Family
+
+##Professional
+
+##Others
