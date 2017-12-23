@@ -3,10 +3,15 @@
 ###### The smallest heading
 
 **This is bold text**
+
 __This is bold text__
+
 *This text is italicized*
+
 _This text is italicized_
+
 ~~This text is strikethrough~~
+
 **This text is _BoldAndItalic_ important**
 
 > This is a quote
@@ -17,6 +22,7 @@ which appears as a seperate block
 ```
 
 [Link Text](https://Link.URL/)
+
 [Relative Link Text](dirInRepo/fileInDir)
 
 - list item 1
@@ -37,6 +43,6 @@ which appears as a seperate block
 
 \(escape sequence)
 
-:emojiCode: :simple_smile:
+:emojiCode: :smiley:
 [emoji codes for bitbucket](https://bitbucket.org/DACOFFEY/wiki/wiki/BITBUCKET/EMOJI/Emoji)
 [emoji code cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
