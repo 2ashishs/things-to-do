@@ -203,7 +203,6 @@
 :corn:
 :couple:
 :couple_with_heart:
-:couplekiss:
 :cow:
 :cow2:
 :credit_card:
@@ -853,5 +852,3 @@
 :yum:
 :zap:
 :zzz:
-:1:
-:2:
