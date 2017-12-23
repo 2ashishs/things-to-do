@@ -44,5 +44,6 @@ which appears as a seperate block
 \(escape sequence)
 
 :emojiCode: [CheatSheet :smiley:](emoji_codes.md)
+
 [emoji codes for bitbucket](https://bitbucket.org/DACOFFEY/wiki/wiki/BITBUCKET/EMOJI/Emoji)
 [emoji code cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
